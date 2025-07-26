@@ -1,2 +1,2 @@
 # portfolio
-portfolio, primeiro site curso - testegu
+Portfolio para a turma DIWEB 2502 Sabado
