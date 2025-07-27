@@ -96,8 +96,17 @@ ul {
 }
 
 .logo{
-    text-align: center;
-    text-align: justify;
+    width: 3.5rem;
+    height: 1.8remx;
     
 }
+
+/* Medidas Responsivas */
+
+@media (min-width: 768px)  /* A partir de 768px ate o infinito */
+    .menu-desktop {
+        display: flex;
+        min-width: 30%;
+    }
+    .header logo { min-width: 30%;}
 
